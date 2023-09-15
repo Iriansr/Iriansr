@@ -1,6 +1,6 @@
 # Hi! im Irián 
 
-:godmode: A PhD researcher at <a href="https://dipc.ehu.eus/es">Donostia International Physics Center</a>, :bulb: go check out my <a href="https://scholar.google.com/citations?user=nBuc_38AAAAJ&hl=es&authuser=1">latest articles! </a> 
+:godmode: I research about computational/theoretical Condensed Matter Physics at <a href="https://dipc.ehu.eus/es">Donostia International Physics Center</a>, :bulb: go check out my <a href="https://scholar.google.com/citations?user=nBuc_38AAAAJ&hl=es&authuser=1">latest articles! </a> 
 
 ### Here you will find code written in:
 - :gift_heart: Julia
